@@ -1,12 +1,12 @@
-.card:hover {
+ .card:hover {
     transform: scale(1.1);
     border: 1px solid white ;
     box-shadow: 0px 0px 50px black;
     cursor: pointer;
 } 
 
- main{
-     background-color: rgb(255, 255, 155);
+main{
+    background-color: rgb(255, 255, 155);
 }
 header {
     background-image: linear-gradient( to right ,yellow , rgb(255, 255, 132));
@@ -90,7 +90,7 @@ h6 {
     display: flex;
     justify-content: center;
     margin: 20px;
-}
+} */
 
 .mapa {
     display: flex;
@@ -106,4 +106,4 @@ h4{
 p{
     margin-left: 20px;
     display: flex;
-}
+} 
